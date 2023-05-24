@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ncls-p&show_icons=true&theme=Gradient)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ncls-p&theme=Gradient)
-# My Skills
+# Some Of My Skills
 
 ## Programming Languages
 [![JavaScript, HTML, CSS, Java, C, C++, C#, CoffeeScript, Lua, Markdown, PHP, Python, Rust, TypeScript](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,cs,coffeescript,lua,md,php,py,rust,ts)](https://skillicons.dev)
@@ -26,9 +26,6 @@
 
 ## Testing and Automation
 [![Jest, GitHub Actions](https://skillicons.dev/icons?i=jest,githubactions)](https://skillicons.dev)
-
-## Messaging and Collaboration
-[![Discord, Bots](https://skillicons.dev/icons?i=discord,bots)](https://skillicons.dev)
 
 ## Monitoring and Logging
 [![Grafana, Sentry](https://skillicons.dev/icons?i=grafana,sentry)](https://skillicons.dev)
